@@ -1,0 +1,3 @@
+if node has right children go right down inorder.
+check parents, if parent is left children, return parent's parent if exists, otherwise(means parent is root) search parent's right childs
+if parent is right children, go up until a left parent, if no such exists return null.
