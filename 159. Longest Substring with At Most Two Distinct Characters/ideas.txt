@@ -1,0 +1,1 @@
+substring issues use dp or sliding window, dp works as well but no so efficient as sliding window
