@@ -1,0 +1,2 @@
+use one stack to store values 
+another stack to minis, unless a smaller or equal to too element is pushed, no need to update the mini stack

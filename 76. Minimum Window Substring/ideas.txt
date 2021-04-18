@@ -1,0 +1,1 @@
+sliding window, catch the point where the trend changes(new possible solution occurs in this test)

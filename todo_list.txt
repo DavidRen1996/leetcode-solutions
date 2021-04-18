@@ -1,0 +1,12 @@
+239. Sliding Window Maximum(done)
+244. Shortest Word Distance II
+256. Paint House
+261. Graph Valid Tree
+269. Alien Dictionary
+286. Walls and Gates
+285. Inorder Successor in BST
+323. Number of Connected Components in an Undirected Graph
+346. Moving Average from Data Stream
+339. Nested List Weight Sum
+340. Longest Substring with At Most K Distinct Characters
+992. Subarrays with K Different Integers

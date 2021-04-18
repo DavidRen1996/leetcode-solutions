@@ -1,0 +1,1 @@
+use priority queue to keep the current max and update it when previous max become obsolete
