@@ -1,0 +1,2 @@
+similar to another issue, both consider every node either as a root or an intermediate node.
+watch out that some of the recursion isnt necessary, remove them or will timeout.
