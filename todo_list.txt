@@ -4,7 +4,7 @@
 261. Graph Valid Tree
 269. Alien Dictionary
 286. Walls and Gates
-285. Inorder Successor in BST
+285. Inorder Successor in BST(done)
 323. Number of Connected Components in an Undirected Graph
 346. Moving Average from Data Stream
 339. Nested List Weight Sum
