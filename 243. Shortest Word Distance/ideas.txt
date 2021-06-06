@@ -1,0 +1,1 @@
+no memory needed, just keep updating the two indexs
