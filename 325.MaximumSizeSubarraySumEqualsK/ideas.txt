@@ -1,0 +1,3 @@
+this problem cannot be solved using two pointers, because not all values are positive numbers, we cannot guarantee the sum to increase or decrease(no way to tell when should we change the sliding window)
+
+Therefore, we need to solve this problem with a map, by reducing the cumulative sum with indexs. 
